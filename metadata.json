@@ -1,0 +1,6 @@
+{
+  "name": "Soren Lindqvist — Fine Art & Editorial Photography",
+  "description": "Architectural, documentary, and fine art photography portfolio featuring a responsive Bento and masonry gallery, technical EXIF inspection, and archival print editions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
